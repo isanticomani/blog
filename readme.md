@@ -1,3 +1,10 @@
+Blog desarrollado durante el curso de laravel tomado en codigofacilito.com
+
+en la siguiente liga se puede observar su funcionamiento.
+
+http://blog.ivansanticomani.tk/register
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
